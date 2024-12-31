@@ -1,9 +1,9 @@
 # EBBC impl
-Unofficial EBBC component impl of Scene Text Recognition with Eliminating Background Noise and Enhancing Characters Shape Feature</br>
+Unofficial EBEC component impl of Scene Text Recognition with Eliminating Background Noise and Enhancing Characters Shape Feature</br>
 Use gpu with CUDA to run</br>
 ```bash
 # To train
-python ebbc.py
+python ebec.py
 # To validate
 python test.py
 ```

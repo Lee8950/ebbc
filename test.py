@@ -1,9 +1,9 @@
-import ebbc
+import ebec
 import torch
 import torchvision.transforms
 import PIL.Image
 
-net = ebbc.EBBC()
+net = ebec.EBEC()
 net.load_state_dict(torch.load("model_params.pth"))
 
 transform = torchvision.transforms.Compose([
