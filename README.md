@@ -1,4 +1,4 @@
-# EBBC impl
+# EBEC impl
 Unofficial EBEC component impl of Scene Text Recognition with Eliminating Background Noise and Enhancing Characters Shape Feature</br>
 Use gpu with CUDA to run</br>
 ```bash
